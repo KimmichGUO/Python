@@ -1,2 +1,2 @@
 # Python
-Python_final_GJY
+这是2020213825的Python期末大作业，项目名称是基于LSTM和Bert的电影评论情感分析预测与对比
